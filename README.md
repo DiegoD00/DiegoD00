@@ -1,6 +1,4 @@
 # Hi, I'm Diego 👋  Computer Science Student | Aspiring Software Engineer  
-
-I enjoy building practical applications and learning how software solves real-world problems.
 ---
 ## 🚀 Currently
 - Studying Computer Science at Bridgewater State University  
