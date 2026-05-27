@@ -1,5 +1,40 @@
-## Hi there 👋
+# Hi, I'm Diego 👋  
+Computer Science Student | Aspiring Software Engineer  
 
+I enjoy building practical applications and learning how software solves real-world problems.
+
+---
+
+## 🚀 Currently
+- Studying Computer Science at Bridgewater State University  
+- Building projects using Python and Java  
+- Learning data structures, algorithms, and software development fundamentals  
+
+---
+
+## 💻 Projects
+### 📝 To-Do App (Python)
+- Built a command-line task manager with add, view, and delete features  
+- Practiced file handling, loops, and user input validation  
+- Focused on writing clean and organized code  
+
+---
+
+## 🛠️ Skills
+- Languages: Python, Java  
+- Tools: Git, GitHub, VS Code  
+- Concepts: OOP, basic algorithms, problem solving  
+
+---
+
+## 🎯 Goals
+Looking for software engineering opportunities to gain real-world experience and grow as a developer.
+
+---
+
+## 📫 Contact
+- Email: dd9677432@gmail.com  
+  
 <!--
 **DiegoD00/DiegoD00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
